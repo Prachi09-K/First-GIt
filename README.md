@@ -1,3 +1,4 @@
 # First-GIt
 This is my first git repositories
-Author-Prachi Kumari
+<br>
+<h1>Author-Prachi Kumari</h1>
